@@ -3,3 +3,5 @@
 # Next steps: Firing function.
 #spread the asteroids
 #score function
+
+#Second Attempt: Took permission from Khalid for trying the game in pygames since I have experience with pygames in the past. Moving forward from release 1. 
